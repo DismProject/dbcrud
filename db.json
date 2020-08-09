@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Dicky",
+      "alamat": "bogor",
+      "nohp": 123
+    },
+    {
+      "id": 2,
+      "nama": "Anang",
+      "alamat": "bogor",
+      "nohp": 123
+    },
+    {
+      "id": 3,
+      "nama": "Wahyu",
+      "alamat": "bogor",
+      "nohp": 123
+    },
+    {
+      "id": 4,
+      "nama": "Alan",
+      "alamat": "bogor",
+      "nohp": 123
+    },
+    {
+      "id": 5,
+      "nama": "Kahfi",
+      "alamat": "bogor",
+      "nohp": 123
+    },
+    {
+      "id": 6,
+      "nama": "Irwan",
+      "alamat": "bogor",
+      "nohp": 123
+    },
+    {
+      "id": 7,
+      "nama": "Reza",
+      "alamat": "bogor",
+      "nohp": 123
+    },
+    {
+      "id": 8,
+      "nama": "Kahfi",
+      "alamat": "bogor",
+      "nohp": 123
+    },
+    {
+      "id": 9,
+      "nama": "Irwan",
+      "alamat": "bogor",
+      "nohp": 123
+    },
+    {
+      "id": 10,
+      "nama": "Reza",
+      "alamat": "bogor",
+      "nohp": 123
+    },
+    {
+      "id": 11,
+      "nama": "Kahfi",
+      "alamat": "bogor",
+      "nohp": 123
+    },
+    {
+      "id": 12,
+      "nama": "Irwan",
+      "alamat": "bogor",
+      "nohp": 123
+    },
+    {
+      "id": 13,
+      "nama": "Reza",
+      "alamat": "bogor",
+      "nohp": 123
+    }
+  ]
+}
